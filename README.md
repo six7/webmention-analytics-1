@@ -1,6 +1,6 @@
 # Webmention Analytics
 
-An analytics dashboard for webmention.io data.
+An analytics dashboard for webmention.io data
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/758f580e-b9ec-44f6-a23d-1176389c989a/deploy-status)](https://app.netlify.com/sites/webmention-analytics/deploys)  
 
